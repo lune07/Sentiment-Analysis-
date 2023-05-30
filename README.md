@@ -1,4 +1,4 @@
-# Sentiment-Analysis-
+# Sentiment-Analysis-Project
 Sentiment Analysis of Reddit and Twitter data
 - Developed a sentiment analysis project using BERT model from the transformers library and NLTK toolkit for accurate sentiment classification of Reddit and Twitter data.
 - Leveraged BERT, a powerful language model, and NLTK toolkit to build a robust sentiment analysis system for precise sentiment classification.
